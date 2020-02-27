@@ -1,11 +1,11 @@
 # Site settings
 author: Marsha Annon
-title: 
+title: Marsha Codes
 header-img: img/home-bg.png
 email: marshaannon@gmail.com
 copyright_name: Marsha Annon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Documenting a developer's work in progress
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MarshaAnnon
